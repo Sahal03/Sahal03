@@ -7,7 +7,7 @@ I'm passionate about building scalable software solutions and have experience wo
 🎓 Graduating in December 2025
 
 ### Projects 
-NotebookLM Flashcards Export | HTML/CSS, JavaScript, Python, FastAPI
+**NotebookLM Flashcards Export** | HTML/CSS, JavaScript, Python, FastAPI   
 Addressed a missing product feature by creating an end-to-end export solution, allowing users to study
 NotebookLM flashcards offline in their preferred format
  
