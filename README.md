@@ -4,7 +4,7 @@ I'm a Computer Science student at Carleton University, specializing in Machine L
 I'm passionate about building scalable software solutions and have experience working at companies like Microsoft and Amazon.
 
 📍 Based in Ottawa, ON  
-🎓 Graduating in December 2025
+🎓 Graduating December 2025
 
 
 ### Let's Connect!
@@ -13,4 +13,4 @@ I'm passionate about building scalable software solutions and have experience wo
 
 ---
 
-*Open to new opportunities and collaborations in software engineering and machine learning!*
+*Open to new opportunities and collaborations in software engineering!*
